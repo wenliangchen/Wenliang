@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Student Grade Management system',
     subtitle: '2022 Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/lukas-blazek-mcSDtbWXUZU-unsplash.jpg',
     date: '2022-10-20',
     desc:
       'Collaborated with 4 teammates to build the student grade portal and course manage system, Developed the RESTFul APIs in Spring Boot Framework and MySQL database to implement the web application.'
@@ -14,7 +14,7 @@ const data = [
   {
     title: 'Internet of Things (IOT) network traffic recognition App',
     subtitle: 'thesis project',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/robin-glauser-zP7X_B86xOg-unsplash.jpg',
     date: '2022-05-20',
     desc:
       'Built the service with Python Flask Framework and MySQL database to implement the web application that allows user to upload Wireshark .pacp files to have the analyze result.'
@@ -27,7 +27,7 @@ const data = [
   {
     title: 'Personal financial manage platform',
     subtitle: '',
-    image: '/images/projects/spacepotato.jpg',
+    image: '/images/projects/jeffrey-blum-7-gaPkhIgqs-unsplash.jpg',
     date: '2022-03-28',
     desc:
       'Built a dashboard using Reach.Js including a shot chart and bar charts to visualize financial data with D3.js'
