@@ -20,8 +20,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Wenliang. I like building things.
-        I am currently a student pursuing my Master of Science in Computer Information Technology, and
-        passionate about writing code and solving technical problem through the development of creative and innovative software. and my skills and knowledge were excellent, epically in the Backend development, Spring Boot, Python and React.Js.
+        passionate about writing code and solving technical problem through the
+        development of creative and innovative software. and my skills and knowledge were excellent,
+        epically in the Backend development, Spring Boot, Python and React.Js.
       </p>
       <ul className="actions">
         <li>

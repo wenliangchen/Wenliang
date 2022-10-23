@@ -22,8 +22,7 @@ const data = [
       + 'Implemented Bucked-Token and Sliding-window Rate Limiter to smooth burst request and prevent DDOS attack.'
       + 'Integrated Convolutional neural networks model with backend API to provide the analyze result'
       + 'Developed Unit Test and improved coverage from 30% to 80% and save 70% of the code review time'
-      + 'Deployed build to Amazon AWS EC2 and AWS S3 Storage for high Scalability'
-      ,
+      + 'Deployed build to Amazon AWS EC2 and AWS S3 Storage for high Scalability',
   },
   {
     title: 'Personal financial manage platform',

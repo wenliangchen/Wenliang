@@ -14,31 +14,31 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://facebook.com/',
-  //   label: 'Facebook',
-  //   icon: faFacebookF,
-  // },
-  // {
-  //   link: 'https://www.instagram.com/',
-  //   label: 'Instagram',
-  //   icon: faInstagram,
-  // },
+  {
+    link: 'https://facebook.com/',
+    label: 'Facebook',
+    icon: faFacebookF,
+  },
+  {
+    link: 'https://www.instagram.com/',
+    label: 'Instagram',
+    icon: faInstagram,
+  },
   {
     link: 'https://www.linkedin.com/in/wenliang-chen-374266191/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  // {
-  //   link: 'https://angel.co/',
-  //   label: 'Angel List',
-  //   icon: faAngellist,
-  // },
-  // {
-  //   link: 'https://twitter.com/',
-  //   label: 'Twitter',
-  //   icon: faTwitter,
-  // },
+  {
+    link: 'https://angel.co/',
+    label: 'Angel List',
+    icon: faAngellist,
+  },
+  {
+    link: 'https://twitter.com/',
+    label: 'Twitter',
+    icon: faTwitter,
+  },
   {
     link: 'mailto:wiliamchensde@outlook.com',
     label: 'Email',
