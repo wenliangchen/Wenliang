@@ -1,7 +1,7 @@
 {
   "name": "Wenliang Chen's website",
   "version": "4.0.0",
-  "homepage": "localhost:3000",
+  "homepage": "https://wenliang.me/",
   "repository": {
     "type": "git",
     "url": "https://github.com/wenliangchen/wenliangchen.github.io.git"
